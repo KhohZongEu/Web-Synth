@@ -1,0 +1,21 @@
+#pad {
+  position: absolute;
+
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+
+  background:   navy;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#label {
+  font: 50px Arial;
+  color: white;
+  
+  user-select: none;
+}
